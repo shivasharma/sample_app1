@@ -1,10 +1,21 @@
 SamoApp1::Application.routes.draw do
+<<<<<<< HEAD
 
 
   	get "pages/home"
 	 get "pages/contact"
 	get "pages/about"
 	get "pages/help"
+=======
+  get "pages/home"
+
+  get "pages/about"
+
+  get "pages/contact"
+
+  get "pages/help"
+
+>>>>>>> static-pages
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
